@@ -23,6 +23,8 @@ A ideia surgiu durante atividades relacionadas ao **Programa Agrinho**, com o ob
 3. Cole no editor e clique no botão ▶️ para rodar;
 4. Clique no botão “Simular Clima” para gerar novos dados.
 
+   OU, clique no link anexado para ir para o link do projeto no p5.js
+
 ---
 
 ## Objetivo do projeto
@@ -37,13 +39,8 @@ A proposta é ser uma ferramenta educativa simples, ideal para:
 
 ## 👤 Autor
 
-Desenvolvido por **Mateus Hammes**, como parte de um projeto educacional.  
+Desenvolvido por **Mateus Souza Hammes**, como parte de um projeto educacional.  
 Inspirado pelo **Programa Agrinho**, que incentiva o uso da tecnologia no campo e na sala de aula.
 
----
-
-## 📜 Licença
-
-Este projeto é livre para uso educacional e está licenciado sob a [MIT License](LICENSE).
 
 ## Texto formatado com auxilio de IA, foi mal, escrita não é o meu forte!
